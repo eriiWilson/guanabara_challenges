@@ -18,5 +18,5 @@ print(f'The calculation {num1} * {num2} equals {multiplication}')
 print(f'The calculation {num1} / {num2} equals {round(division ,2)}')
 print(f'The calculation {num1} // {num2} equals {integer_division}')
 print(f'The remainder of the division {num1} % {num2} equals {modulo}')
-print(f'The calculation {num1} ** {num2} equals {addition}')
+print(f'The calculation {num1} ** {num2} equals {exponentiation}')
 
