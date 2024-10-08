@@ -9,3 +9,10 @@ sr = (math.sqrt(n1))
 print(sr)
 print(d)
 print(t) 
+
+#other ways to show square root
+sr = n1 ** (1/2)
+print(sr)
+
+sr = pow(n1, 1/2)
+print(sr)
